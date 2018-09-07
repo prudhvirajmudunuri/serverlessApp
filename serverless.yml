@@ -55,8 +55,7 @@ provider:
 
 functions:
   hello:
-    handler: handler.helloLambda
-
+    handler: handler.testLambda
   # saveTaco:
   #   handler: handler.saveTacos
   #   events:
